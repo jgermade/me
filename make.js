@@ -97,7 +97,7 @@ require('nitro')(function (nitro) {
     nitro.file.write('public/CNAME', 'jesus.germade.es');
   });
 
-  nitro.task('build', ['cname', 'assets', 'sass', 'templates']);
+  nitro.task('build', ['assets', 'sass', 'templates']);
 
   nitro.task('dev', ['assets', 'sass', 'templates'], function () {
 
