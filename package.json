@@ -1,0 +1,32 @@
+{
+  "name": "jgermade.github.io",
+  "version": "1.0.0",
+  "description": "Jesús Germade personal page",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgermade/jgermade.github.io.git"
+  },
+  "keywords": [
+    "Jesús",
+    "Germade",
+    "frontend",
+    "developer"
+  ],
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgermade/jgermade.github.io/issues"
+  },
+  "homepage": "https://github.com/jgermade/jgermade.github.io#readme",
+  "devDependencies": {
+    "marked": "^0.3.6",
+    "nitro": "^1.12.32",
+    "sasslets-animate": "0.0.4",
+    "sasslets-position": "0.0.2",
+    "sasslets-responsive": "0.0.7"
+  }
+}
