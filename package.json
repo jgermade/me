@@ -28,5 +28,11 @@
     "sasslets-animate": "0.0.4",
     "sasslets-position": "0.0.2",
     "sasslets-responsive": "0.0.7"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.5.2",
+    "livereload": "^0.6.0",
+    "node-sass": "^4.3.0",
+    "yaml-js": "^0.2.3"
   }
 }
