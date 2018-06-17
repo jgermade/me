@@ -20,9 +20,13 @@ skills:
 
 libsLabel: Librerías
 libs:
-  nitro: <a href="https://www.npmjs.com/package/nitro" target="_blank">nitro</a> es una librería de ensamblado de código, como grunt o gulp, enfocada en la estructura de frontend. Incluye procesadores pre-configurados de Sass, Less, postcss, uglify, browserify, babel, eslint, jslint, etc.
-  jstools: <a href="http://jstools.github.io" target="_blank">jsTools</a> es una colección de librerías javascript que incluyen funciones muy usadas en cualquier proyecto de frontend, como *manipulación del DOM*, *ajax*, gestión de cookies, *promesas*, eventos, etc.
-  sasslets: Conjunto de componentes que incluyen funciones y mixins que pueden ser usados en cualquier proyecto basado en Sass. <a href="https://github.com/sasslets" target="_blank">Saber mas sobre sasslets en github</a>.
+  nitro:
+    message: <a href="https://www.npmjs.com/package/nitro" target="_blank">nitro</a> es una librería de ensamblado de código, como grunt o gulp, enfocada en la estructura de frontend. Incluye procesadores pre-configurados de Sass, Less, postcss, uglify, browserify, babel, eslint, jslint, etc.
+  kiltjs:
+    icon: kiltjs.png
+    message: <a href="https://github.com/kiltjs" target="_blank">Kilt ᴊs</a> es una colección de librerías javascript que incluyen funciones muy usadas en cualquier proyecto de frontend, como *manipulación del DOM*, *ajax* o *promesas*.
+  sasslets:
+    message: Conjunto de componentes que incluyen funciones y mixins que pueden ser usados en cualquier proyecto basado en Sass. <a href="https://github.com/sasslets" target="_blank">Saber mas sobre sasslets en github</a>.
 
 jobs:
   aplazame:

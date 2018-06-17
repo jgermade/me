@@ -18,12 +18,12 @@
 
 <section class="container-md libs">
   <h3>${text.libsLabel}</h3>
-  $each{ md,lib in text.libs }
+  $each{ lib,lib_name in text.libs }
   <div class="skill row">
     <div class="img-wrapper">
-      <img src="assets/images/logos/${lib}.svg" />
+      <img src="assets/images/logos/${ lib.icon || (lib_name + '.svg') }" />
     </div>
-    <div class="description">${ markdown(md) }</div>
+    <div class="description">${ markdown(lib.message) }</div>
   </div>
   {/}
 </section>
