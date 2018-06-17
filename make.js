@@ -41,16 +41,16 @@ require('nitro')(function (nitro) {
         YAML = nitro.require('yaml-js');
 
     nitro.dir('templates').load(['{,**/}*.html', 'layout.html']).each(function (f) {
-      template.put( f.getPath(), f.getSrc() );
+      template.put( f.path, f.src );
     });
 
     nitro.dir('templates/partials').load('{,**/}*.html').each(function (f) {
-      var pathParts = f.getPath().split('/'),
+      var pathParts = f.path.split('/'),
           filename = pathParts.pop();
 
       pathParts.push( filename.replace(/^_|\.html$/g, '') );
 
-      template.put( pathParts.join('/'), f.getSrc() );
+      template.put( pathParts.join('/'), f.src );
     });
 
     var renderLang = function (lang, asRoot) {
@@ -112,7 +112,7 @@ require('nitro')(function (nitro) {
     nitro.watch('i18n')
       .when('{,**/}*', 'templates:dev');
 
-    nitro.require('livereload').createServer().watch(['public']);
+    // nitro.require('livereload').createServer().watch(['public']);
 
   });
 
@@ -120,7 +120,8 @@ require('nitro')(function (nitro) {
 
     nitro.server({
       root: 'public',
-      openInBrowser: true
+      openInBrowser: true,
+      livereload: 'public'
     });
 
   });
