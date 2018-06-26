@@ -24,7 +24,7 @@ libs:
     message: <a href="https://www.npmjs.com/package/nitro" target="_blank">nitro</a> is a node build library, like grunt or gulp, focused in frontend stack. Includes preset configuration for processing sass, less, postcss, uglify, browserify, babel, eslint, jslint, etc.
   kiltjs:
     icon: kiltjs.png
-    message: <a href="http://jstools.github.io" target="_blank">Kilt ᴊs</a> is a collection of common libraries for building custom frontend apps (like a LEGO). This includes libraries for *DOM manipulation*, *ajax* or *promises*.
+    message: <a href="https://github.com/kiltjs" target="_blank">Kilt ᴊs</a> is a collection of common libraries for building custom frontend apps (like a LEGO). This includes libraries for *DOM manipulation*, *ajax* or *promises*.
   sasslets:
     message: Set of sass components that includes mixins and functions that can be used in any sass based proyect. Find out more about <a href="https://github.com/sasslets" target="_blank">sasslets in github</a>.
 
