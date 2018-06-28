@@ -1,26 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" viewBox="0 0 26.458 5.292">
   <defs>
-    <linearGradient y2="44.721" x2="0" id="g" gradientTransform="matrix(.59163 0 0 .11833 -.001 0)" gradientUnits="userSpaceOnUse">
+    <linearGradient y2="44.721" x2="0" id="g" gradientTransform="matrix(.59163 0 0 .11833 -.001 -6.615)" gradientUnits="userSpaceOnUse">
       <stop stop-opacity=".1" stop-color="#bbb" offset="0"/>
       <stop stop-opacity=".1" offset="1"/>
     </linearGradient>
+    <clipPath id="f">
+      <rect x=".045" y="-6.615" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
+    </clipPath>
+    <clipPath id="h">
+      <rect transform="rotate(90)" x=".004" y="-10.58" rx=".794" height="13.227" width="26.451" fill="#fff" stroke-width=".419"/>
+    </clipPath>
+    <clipPath id="e">
+      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
+    </clipPath>
+    <clipPath id="d">
+      <rect transform="rotate(90)" x=".004" y="-3.306" rx=".794" height="13.227" width="26.451" fill="#fff" stroke-width=".419"/>
+    </clipPath>
+    <clipPath id="c">
+      <rect x="-36.369" y="-.046" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
+    </clipPath>
     <clipPath id="b">
-      <rect transform="rotate(90)" width="26.458" height="5.292" rx=".794" x="-.001" fill="#fff" stroke-width=".265"/>
+      <rect x="-33.063" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
     </clipPath>
     <clipPath id="a">
-      <rect width="26.458" height="5.292" rx=".794" x="-.001" fill="#fff" stroke-width=".265"/>
+      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
     </clipPath>
   </defs>
-  <path clip-path="url(#a)" d="M18.256 0h8.202v5.292h-8.202z" fill="#4c6999"/>
-  <rect clip-path="url(#a)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".5" fill="#5dae54"/>
-  <rect clip-path="url(#a)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".5" fill="#5dae54"/>
-  <rect clip-path="url(#b)" transform="rotate(-90)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".5" fill="#5dae54"/>
-  <path clip-path="url(#a)" d="M0 0h18.52v5.292H0z" fill="#555"/>
-  <path clip-path="url(#a)" d="M-.001 0h26.458v5.292H-.001z" fill="url(#g)"/>
-  <text y="4.095" x="2.765" style="line-height:1.25" font-weight="400" font-size="3.414" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#010101" fill-opacity=".302" stroke-width=".085">
-    <tspan style="-inkscape-font-specification:Ubuntu" y="4.095" x="2.765" font-family="Ubuntu" letter-spacing=".265">KILT JS</tspan>
-  </text>
-  <text y="3.831" x="3.03" style="line-height:1.25" font-weight="400" font-size="3.414" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#fff" stroke-width=".085">
-    <tspan style="-inkscape-font-specification:Ubuntu" y="3.831" x="3.03" font-family="Ubuntu" letter-spacing=".265">KILT JS</tspan>
-  </text>
+  <path clip-path="url(#a)" d="M18.256 0h8.202v5.292h-8.202z" fill="#3a68b4"/>
+  <rect transform="matrix(.4001 0 0 1 13.228 0)" clip-path="url(#b)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".4" fill="#fff"/>
+  <rect transform="matrix(.4001 0 0 1 14.55 .046)" clip-path="url(#c)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".4" fill="#fff"/>
+  <rect clip-path="url(#d)" transform="matrix(0 -.4001 1.00025 0 -.005 1.323)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".4" fill="#fff"/>
+  <path clip-path="url(#e)" d="M0 0h18.52v5.292H0z" fill="#555"/>
+  <path transform="translate(-.046 6.615)" clip-path="url(#f)" d="M-.001-6.615h26.458v5.292H-.001z" fill="url(#g)"/>
+  <g style="line-height:1.25" aria-label="KILT JS" font-weight="400" font-size="3.414" font-family="Ubuntu" letter-spacing=".265" word-spacing="0" fill="#010101" fill-opacity=".302" stroke-width=".085">
+    <path style="-inkscape-font-specification:Ubuntu" d="M4.81 1.73l-.239.259q-.133.14-.28.29-.143.147-.287.29-.143.144-.27.266.147.103.311.253.164.15.321.321.157.17.294.348.14.178.232.338h-.39q-.102-.16-.235-.32-.133-.164-.283-.311-.147-.15-.3-.277-.15-.126-.294-.215v1.123h-.331V1.73h.33v1.045q.12-.113.264-.253.143-.143.283-.286.14-.144.263-.274.126-.133.212-.232zM5.47 1.73h.332v2.365H5.47zM8.079 3.809v.286H6.655V1.73h.331v2.08zM9.88 1.73v.286h-.743v2.08h-.332v-2.08h-.744V1.73zM12.68 3.334q0 .17-.037.317-.034.147-.127.26-.088.11-.242.174-.15.062-.379.062-.116 0-.215-.02-.096-.018-.174-.045-.079-.031-.137-.062-.058-.034-.092-.065l.13-.263q.072.052.184.11.116.054.287.054.246 0 .358-.123.113-.126.113-.43V1.73h.331zM14.065 3.86q.519 0 .519-.355 0-.11-.048-.185-.044-.078-.123-.133-.079-.058-.18-.099-.1-.04-.213-.082-.13-.044-.245-.099-.117-.058-.202-.133-.085-.078-.136-.184-.048-.106-.048-.256 0-.311.211-.485.212-.174.584-.174.215 0 .39.047.177.045.259.1l-.106.27q-.072-.045-.215-.086-.14-.045-.328-.045-.095 0-.177.02-.082.021-.144.062-.061.041-.099.106-.034.062-.034.147 0 .096.038.16.037.065.106.117.068.047.157.088.092.041.201.082.154.062.28.123.13.062.222.147.096.085.147.205.051.116.051.283 0 .311-.229.478-.225.168-.638.168-.14 0-.26-.02-.116-.018-.208-.042-.092-.027-.16-.055-.065-.03-.103-.05l.1-.274q.078.045.238.1.16.054.393.054z"/>
+  </g>
+  <g style="line-height:1.25" aria-label="KILT JS" font-weight="400" font-size="3.414" font-family="Ubuntu" letter-spacing=".265" word-spacing="0" fill="#fff" stroke-width=".085">
+    <path style="-inkscape-font-specification:Ubuntu" d="M5.075 1.465l-.24.26q-.132.14-.28.29l-.286.29q-.143.143-.27.266.147.102.311.253.164.15.32.32.158.171.295.349.14.177.232.338h-.39q-.102-.16-.235-.321-.133-.164-.283-.31-.147-.151-.3-.277-.151-.127-.295-.216v1.124h-.33V1.465h.33v1.044q.12-.112.263-.252.144-.144.284-.287.14-.143.263-.273.126-.133.211-.232zM5.735 1.465h.331V3.83h-.33zM8.344 3.544v.287H6.92V1.465h.331v2.079zM10.146 1.465v.286H9.4v2.08h-.33V1.75h-.745v-.286zM12.945 3.07q0 .17-.038.317-.034.147-.126.26-.089.109-.242.173-.15.062-.38.062-.115 0-.214-.02-.096-.018-.174-.045-.079-.03-.137-.061-.058-.035-.092-.065l.13-.263q.071.051.184.11.116.054.287.054.246 0 .358-.123.113-.127.113-.43V1.465h.331zM14.33 3.595q.518 0 .518-.355 0-.11-.047-.184-.045-.079-.123-.133-.079-.058-.181-.1-.1-.04-.212-.081-.13-.045-.246-.1-.116-.057-.201-.133-.086-.078-.137-.184-.048-.106-.048-.256 0-.31.212-.485.212-.174.584-.174.215 0 .39.048.177.044.259.099l-.106.27q-.072-.045-.215-.086-.14-.044-.328-.044-.096 0-.178.02-.081.02-.143.062-.061.04-.099.106-.034.061-.034.146 0 .096.037.16.038.066.106.117.069.048.157.089.093.04.202.082.153.061.28.123.13.061.222.146.095.086.146.205.052.116.052.284 0 .31-.229.478-.225.167-.639.167-.14 0-.259-.02-.116-.018-.208-.042-.092-.027-.16-.054-.066-.03-.103-.051l.099-.273q.078.044.239.099.16.054.392.054z"/>
+  </g>
+  <rect clip-path="url(#h)" transform="matrix(0 -.4001 1.00025 0 -.005 4.233)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".4" fill="#fff"/>
 </svg>
