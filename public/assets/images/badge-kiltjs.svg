@@ -1,42 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" viewBox="0 0 26.458 5.292" shape-rendering="geometricPrecision">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="20" viewBox="0 0 26.458 5.292" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
   <defs>
-    <linearGradient y2="44.721" x2="0" id="g" gradientTransform="matrix(.59163 0 0 .11833 -.001 -6.615)" gradientUnits="userSpaceOnUse">
+    <linearGradient y2="44.721" x2="0" id="a" gradientTransform="matrix(.59163 0 0 .11833 -.001 -6.615)" gradientUnits="userSpaceOnUse">
       <stop stop-opacity=".1" stop-color="#bbb" offset="0"/>
       <stop stop-opacity=".1" offset="1"/>
     </linearGradient>
     <clipPath id="f">
-      <rect x=".045" y="-6.615" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
-    </clipPath>
-    <clipPath id="h">
-      <rect transform="rotate(90)" x=".004" y="-10.58" rx=".794" height="13.227" width="26.451" fill="#fff" stroke-width=".419"/>
+      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
     </clipPath>
     <clipPath id="e">
-      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
-    </clipPath>
-    <clipPath id="d">
       <rect transform="rotate(90)" x=".004" y="-3.306" rx=".794" height="13.227" width="26.451" fill="#fff" stroke-width=".419"/>
     </clipPath>
-    <clipPath id="c">
+    <clipPath id="d">
       <rect x="-36.369" y="-.046" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
     </clipPath>
-    <clipPath id="b">
+    <clipPath id="c">
       <rect x="-33.063" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
     </clipPath>
-    <clipPath id="a">
+    <clipPath id="b">
       <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
     </clipPath>
+    <linearGradient y2="44.721" x2="0" gradientTransform="matrix(2.23594 0 0 .4472 -.174 0)" gradientUnits="userSpaceOnUse" id="h" xlink:href="#a"/>
+    <clipPath id="g">
+      <rect width="99.992" height="20" rx="3.001" fill="#fff" stroke-width="1.002"/>
+    </clipPath>
   </defs>
-  <path clip-path="url(#a)" d="M18.256 0h8.202v5.292h-8.202z" fill="#3a68b4"/>
-  <rect transform="matrix(.4001 0 0 1 13.228 0)" clip-path="url(#b)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".4" fill="#fff"/>
-  <rect transform="matrix(.4001 0 0 1 14.55 .046)" clip-path="url(#c)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".4" fill="#fff"/>
-  <rect clip-path="url(#d)" transform="matrix(0 -.4001 1.00025 0 -.005 1.323)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".4" fill="#fff"/>
-  <path clip-path="url(#e)" d="M0 0h18.52v5.292H0z" fill="#555"/>
-  <path transform="translate(-.046 6.615)" clip-path="url(#f)" d="M-.001-6.615h26.458v5.292H-.001z" fill="url(#g)"/>
-  <g style="line-height:1.25" aria-label="KILT JS" font-weight="400" font-size="3.414" font-family="Ubuntu" letter-spacing=".265" word-spacing="0" fill="#010101" fill-opacity=".302" stroke-width=".085">
-    <path style="-inkscape-font-specification:Ubuntu" d="M5.203 1.899q-.09.1-.204.222-.114.12-.24.249l-.246.248-.23.228q.125.088.265.217.14.128.275.274.135.147.252.299.12.152.198.29H4.94q-.088-.138-.202-.276-.114-.14-.242-.266-.126-.128-.258-.237-.128-.108-.251-.184v.962h-.284V1.9h.284v.895l.225-.217.243-.245q.12-.123.225-.234.108-.114.181-.199zM5.769 1.899h.283v2.026H5.77zM8.003 3.68v.245h-1.22V1.9h.284v1.78zM9.546 1.899v.246h-.638v1.78h-.283v-1.78h-.638v-.246zM11.943 3.273q0 .146-.032.272-.03.126-.108.222-.076.094-.208.15-.129.052-.324.052-.1 0-.185-.018-.082-.014-.149-.038-.067-.026-.117-.052-.05-.03-.079-.056l.111-.225q.062.044.158.094.1.046.246.046.21 0 .307-.105.096-.108.096-.368V1.899h.284zM13.129 3.723q.444 0 .444-.304 0-.093-.04-.158-.039-.067-.106-.114-.067-.05-.155-.084-.085-.035-.181-.07-.112-.039-.21-.085-.1-.05-.173-.114-.074-.068-.117-.158-.041-.09-.041-.22 0-.266.18-.415.182-.149.5-.149.185 0 .334.041.152.038.222.085l-.09.23q-.062-.037-.184-.072-.12-.038-.281-.038-.082 0-.152.017-.07.018-.123.053-.053.035-.085.09-.029.053-.029.126 0 .082.032.138.032.055.09.1.06.04.135.075.08.035.173.07.131.053.24.106.11.052.19.125.082.073.125.176.044.1.044.242 0 .266-.196.41-.193.143-.546.143-.12 0-.223-.018-.099-.014-.178-.035-.079-.023-.137-.046l-.088-.044.085-.234q.067.038.204.085.138.046.337.046z"/>
-  </g>
-  <g style="line-height:1.25" aria-label="KILT JS" font-weight="400" font-size="3.414" font-family="Ubuntu" letter-spacing=".265" word-spacing="0" fill="#fff" stroke-width=".085">
-    <path style="-inkscape-font-specification:Ubuntu" d="M5.468 1.634q-.09.1-.205.223-.114.12-.24.248-.122.126-.245.249l-.231.228q.126.087.266.216t.275.275q.134.146.251.298.12.152.2.29h-.334q-.088-.138-.202-.275-.114-.14-.243-.266-.125-.129-.257-.237-.129-.108-.251-.184v.962h-.284V1.634h.284v.895q.102-.096.225-.216.123-.123.242-.246l.226-.234q.108-.114.18-.199zM6.033 1.634h.284v2.027h-.284zM8.267 3.415v.246H7.048V1.634h.284v1.78zM9.81 1.634v.246h-.637v1.78h-.284V1.88h-.637v-.246zM12.208 3.009q0 .146-.033.271-.029.126-.108.223-.076.093-.207.149-.129.052-.325.052-.1 0-.184-.017-.082-.015-.15-.038-.066-.026-.116-.053-.05-.029-.08-.055l.112-.225q.061.043.158.093.1.047.246.047.21 0 .307-.105.096-.109.096-.369V1.634h.284zM13.393 3.459q.445 0 .445-.304 0-.094-.041-.158-.038-.067-.106-.114-.067-.05-.155-.085-.084-.035-.18-.07-.112-.038-.211-.085-.1-.05-.173-.114-.073-.067-.117-.158-.04-.09-.04-.22 0-.265.18-.414.182-.15.5-.15.185 0 .334.042.152.038.222.084l-.09.231q-.062-.038-.185-.073-.12-.038-.28-.038-.082 0-.153.018-.07.017-.122.052-.053.035-.085.091-.03.053-.03.126 0 .082.033.137.032.056.09.1.059.04.135.076.079.035.172.07.132.052.24.105.111.053.19.126.082.073.126.175.044.1.044.243 0 .266-.196.41-.193.142-.547.142-.12 0-.222-.017-.1-.015-.178-.035-.08-.024-.138-.047-.055-.026-.088-.044l.085-.234q.068.038.205.085.137.047.336.047z"/>
-  </g>
-  <rect clip-path="url(#h)" transform="matrix(0 -.4001 1.00025 0 -.005 4.233)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".4" fill="#fff"/>
+  <path clip-path="url(#b)" d="M18.256 0h8.202v5.292h-8.202z" fill="#3a68b4"/>
+  <rect transform="matrix(.53347 0 0 1 10.493 0)" clip-path="url(#c)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect transform="matrix(.53347 0 0 1 11.55 .046)" clip-path="url(#d)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect clip-path="url(#e)" transform="matrix(0 -.53347 1.00025 0 -.005 1.058)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".6" fill="#fff"/>
+  <path clip-path="url(#f)" d="M0 0h18.52v5.292H0z" fill="#555"/>
+  <path transform="translate(-.001) scale(.2646)" d="M-.174 0v20H70V0H-.174zm99.992 0v20H100V0h-.182z" clip-path="url(#g)" fill="url(#h)"/>
+  <text y="3.787" x="3.118" style="line-height:1.25" font-weight="400" font-size="10.584" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#010101" fill-opacity=".302" stroke-width=".265">
+    <tspan style="line-height:1.25;-inkscape-font-specification:'DejaVu Sans'" y="3.787" x="3.118" font-size="3.528" font-family="DejaVu Sans">ᴋɪʟᴛ ᴊs</tspan>
+  </text>
+  <text y="3.654" x="3.383" style="line-height:1.25" font-weight="400" font-size="10.584" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan style="line-height:1.25;-inkscape-font-specification:'DejaVu Sans'" y="3.654" x="3.383" font-size="3.528" font-family="DejaVu Sans" fill="#fff">ᴋɪʟᴛ ᴊs</tspan>
+  </text>
 </svg>

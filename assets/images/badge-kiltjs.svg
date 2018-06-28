@@ -25,8 +25,8 @@
     </clipPath>
   </defs>
   <path clip-path="url(#b)" d="M18.256 0h8.202v5.292h-8.202z" fill="#3a68b4"/>
-  <rect transform="matrix(.53347 0 0 1 10.757 0)" clip-path="url(#c)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
-  <rect transform="matrix(.53347 0 0 1 11.815 .046)" clip-path="url(#d)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect transform="matrix(.53347 0 0 1 10.493 0)" clip-path="url(#c)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect transform="matrix(.53347 0 0 1 11.55 .046)" clip-path="url(#d)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
   <rect clip-path="url(#e)" transform="matrix(0 -.53347 1.00025 0 -.005 1.058)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".6" fill="#fff"/>
   <path clip-path="url(#f)" d="M0 0h18.52v5.292H0z" fill="#555"/>
   <path transform="translate(-.001) scale(.2646)" d="M-.174 0v20H70V0H-.174zm99.992 0v20H100V0h-.182z" clip-path="url(#g)" fill="url(#h)"/>
