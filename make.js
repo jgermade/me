@@ -8,7 +8,7 @@ require('nitro')(function (nitro) {
     nitro.dir('assets').copy('public/assets');
 
     nitro.file.copy('humans.txt', 'public/humans.txt');
-    nitro.file.copy('keybase.txt', 'public/.well-known/keybase.txt');
+    nitro.file.copy('keybase.txt', 'public/keybase.txt');
 
   });
 
