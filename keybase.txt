@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jgermade
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jesus.germade.es
+  * I am jgermade (https://keybase.io/jgermade) on keybase.
+  * I have a public key ASAFO92BpAfatqKRgB1nP87mweHxxYB6CqD16EfExmoWrAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120053bdd81a407dab6a291801d673fcee6c1e1f1c5807a0aa0f5e847c4c66a16ac0a",
+      "host": "keybase.io",
+      "kid": "0120053bdd81a407dab6a291801d673fcee6c1e1f1c5807a0aa0f5e847c4c66a16ac0a",
+      "uid": "7a52fb66c6a8cf95535515d964ecc619",
+      "username": "jgermade"
+    },
+    "merkle_root": {
+      "ctime": 1536138252,
+      "hash": "57977b0cca31d07bd7e51819094f58ecc153775eb2d92c638647d4b3021275aeeabb3723a33a4b437c60b4464bdf09da4fb30597179712cf9a7883b266b6209a",
+      "hash_meta": "f504e472c2861118c009add707f224ab79b96f4b2daf89e518e6e181e8d17939",
+      "seqno": 3565202
+    },
+    "service": {
+      "entropy": "u0OV+ThqHgKYsstnQ5NgAlPT",
+      "hostname": "jesus.germade.es",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1536138267,
+  "expire_in": 504576000,
+  "prev": "3cb840621187f56e7a6a1e142a557349e27cc4f18f4c917338ffd7f41486d559",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBTvdgaQH2raikYAdZz/O5sHh8cWAegqg9ehHxMZqFqwKp3BheWxvYWTESpcCCsQgPLhAYhGH9W56ah4UKlVzSeJ8xPGPTJFzOP/X9BSG1VnEIJV2fNdyH1AgGIU7xd9Twrb5umH8A2WuRuazdAceOWQTAgHCo3NpZ8RACcKWwBqJagVUMVxwSEay2vCZyts/d6glrdKUdrr0hI2efxuBnPtMfqjHwQZxQJG1jPafoMlFxvzXEHHCKGOGDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBHrqZTX1M9nI0hhJ0b6r/HHWDasW9gr1SzkDTl8ezazo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jgermade
+
+==================================================================
