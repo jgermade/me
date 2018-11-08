@@ -23,15 +23,16 @@
   },
   "homepage": "https://github.com/jgermade/jgermade.github.io#readme",
   "devDependencies": {
-    "marked": "0.4.0",
-    "nitro": "2.2.10",
+    "gh-pages": "^2.0.1",
+    "marked": "0.5.1",
+    "nitro": "2.2.12",
     "sasslets-animate": "0.0.4",
     "sasslets-position": "0.0.2",
     "sasslets-responsive": "0.0.12"
   },
   "dependencies": {
-    "autoprefixer": "8.6.2",
-    "node-sass": "4.9.0",
+    "autoprefixer": "9.3.1",
+    "node-sass": "4.10.0",
     "yaml-js": "0.2.3"
   }
 }
