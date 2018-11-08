@@ -25,7 +25,7 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "marked": "0.5.1",
-    "nitro": "2.2.12",
+    "nitro": "2.2.13",
     "sasslets-animate": "0.0.4",
     "sasslets-position": "0.0.2",
     "sasslets-responsive": "0.0.12"
