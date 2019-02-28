@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="20" viewBox="0 0 26.458 5.292" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <linearGradient y2="44.721" x2="0" id="a" gradientTransform="matrix(.59163 0 0 .11833 -.001 -6.615)" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity=".1" stop-color="#bbb" offset="0"/>
+      <stop stop-opacity=".1" offset="1"/>
+    </linearGradient>
+    <clipPath id="f">
+      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
+    </clipPath>
+    <clipPath id="e">
+      <rect transform="rotate(90)" x=".004" y="-3.306" rx=".794" height="13.227" width="26.451" fill="#fff" stroke-width=".419"/>
+    </clipPath>
+    <clipPath id="d">
+      <rect x="-36.369" y="-.046" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
+    </clipPath>
+    <clipPath id="c">
+      <rect x="-33.063" rx="1.984" height="5.292" width="66.128" fill="#fff" stroke-width=".419"/>
+    </clipPath>
+    <clipPath id="b">
+      <rect x="-.001" rx=".794" height="5.292" width="26.458" fill="#fff" stroke-width=".265"/>
+    </clipPath>
+    <linearGradient y2="44.721" x2="0" gradientTransform="matrix(2.23594 0 0 .4472 -.174 0)" gradientUnits="userSpaceOnUse" id="h" xlink:href="#a"/>
+    <clipPath id="g">
+      <rect width="99.992" height="20" rx="3.001" fill="#fff" stroke-width="1.002"/>
+    </clipPath>
+  </defs>
+  <path clip-path="url(#b)" d="M18.256 0h8.202v5.292h-8.202z" fill="#3a68b4"/>
+  <rect transform="matrix(.53347 0 0 1 10.493 0)" clip-path="url(#c)" rx="0" x="18.521" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect transform="matrix(.53347 0 0 1 11.55 .046)" clip-path="url(#d)" rx="0" x="22.49" height="5.292" width="1.984" opacity=".6" fill="#fff"/>
+  <rect clip-path="url(#e)" transform="matrix(0 -.53347 1.00025 0 -.005 1.058)" rx="0" y="18.521" x="-3.969" height="7.938" width="1.984" opacity=".6" fill="#fff"/>
+  <path clip-path="url(#f)" d="M0 0h18.52v5.292H0z" fill="#555"/>
+  <path transform="translate(-.001) scale(.2646)" d="M-.174 0v20H70V0H-.174zm99.992 0v20H100V0h-.182z" clip-path="url(#g)" fill="url(#h)"/>
+  <text y="3.787" x="3.118" style="line-height:1.25" font-weight="400" font-size="10.584" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#010101" fill-opacity=".302" stroke-width=".265">
+    <tspan style="line-height:1.25;-inkscape-font-specification:'DejaVu Sans'" y="3.787" x="3.118" font-size="3.528" font-family="DejaVu Sans">ᴋɪʟᴛ ᴊs</tspan>
+  </text>
+  <text y="3.654" x="3.383" style="line-height:1.25" font-weight="400" font-size="10.584" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width=".265">
+    <tspan style="line-height:1.25;-inkscape-font-specification:'DejaVu Sans'" y="3.654" x="3.383" font-size="3.528" font-family="DejaVu Sans" fill="#fff">ᴋɪʟᴛ ᴊs</tspan>
+  </text>
+</svg>
