@@ -15,9 +15,9 @@ build: install
 
 deploy: build
 	# $(shell npm bin)/gh-pages -d public
-	# git add public -f
+	git add public -f
 	git fetch origin
-	# -git commit -m "updating public"
+	-git commit -m "updating public"
 	-git push origin `git subtree split --prefix public master`:gh-pages --force
 	git subtree push --prefix public origin gh-pages
 	git reset --soft HEAD~1
