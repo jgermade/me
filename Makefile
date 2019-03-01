@@ -11,6 +11,7 @@ dev: install
 
 build: install
 	@node make build
+	echo "jesus.germade.dev" > public/CNAME
 
 deploy: build
 	# $(shell npm bin)/gh-pages -d public
