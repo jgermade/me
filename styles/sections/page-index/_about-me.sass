@@ -1,4 +1,12 @@
 
+// @keyframes bg-about-me
+//   0%
+//     background-position-x: -10%
+//   50%
+//     background-position-x: 10%
+//   100%
+//     background-position-x: -10%
+
 $dialog-background: rgba(black,0.85)
 $logo-margin-sm: $logo-margin/2
 
@@ -8,10 +16,13 @@ section.about-me
 
   @media #{$screen-md-up}
     background-image: url('/assets/images/code-skills-bg.jpg')
-    background-size: 100% 100%
+    // background-size: 110% 110%
     background-size: cover
     background-repeat: no-repeat
     background-attachment: fixed
+
+    // animation: bg-about-me 60s ease 0s infinite
+
   // overflow: hidden
   border-top: 1px solid $gray-line
   border-bottom: 1px solid $gray-line

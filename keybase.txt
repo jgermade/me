@@ -4,49 +4,61 @@ https://keybase.io/jgermade
 
 I hereby claim:
 
-  * I am an admin of https://jesus.germade.es
+  * I am an admin of https://jesus.germade.dev
   * I am jgermade (https://keybase.io/jgermade) on keybase.
-  * I have a public key ASAFO92BpAfatqKRgB1nP87mweHxxYB6CqD16EfExmoWrAo
+  * I have a public key with fingerprint 3456 AA0C 5F57 5223 656A  A0BA B520 697D 241F 883F
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120053bdd81a407dab6a291801d673fcee6c1e1f1c5807a0aa0f5e847c4c66a16ac0a",
+      "eldest_kid": "010187734838d3e35ff9b76a8dbd9356ffa4d06a9ace9e3ad03e092c1152405e34ba0a",
+      "fingerprint": "3456aa0c5f575223656aa0bab520697d241f883f",
       "host": "keybase.io",
-      "kid": "0120053bdd81a407dab6a291801d673fcee6c1e1f1c5807a0aa0f5e847c4c66a16ac0a",
+      "key_id": "b520697d241f883f",
+      "kid": "010187734838d3e35ff9b76a8dbd9356ffa4d06a9ace9e3ad03e092c1152405e34ba0a",
       "uid": "7a52fb66c6a8cf95535515d964ecc619",
       "username": "jgermade"
     },
-    "merkle_root": {
-      "ctime": 1536138252,
-      "hash": "57977b0cca31d07bd7e51819094f58ecc153775eb2d92c638647d4b3021275aeeabb3723a33a4b437c60b4464bdf09da4fb30597179712cf9a7883b266b6209a",
-      "hash_meta": "f504e472c2861118c009add707f224ab79b96f4b2daf89e518e6e181e8d17939",
-      "seqno": 3565202
-    },
     "service": {
-      "entropy": "u0OV+ThqHgKYsstnQ5NgAlPT",
-      "hostname": "jesus.germade.es",
+      "hostname": "jesus.germade.dev",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "2.6.0"
-  },
-  "ctime": 1536138267,
-  "expire_in": 504576000,
-  "prev": "3cb840621187f56e7a6a1e142a557349e27cc4f18f4c917338ffd7f41486d559",
-  "seqno": 10,
+  "ctime": 1552491558,
+  "expire_in": 157680000,
+  "prev": "a6eb94bfe6ee716630da9f2a43f74010959a672021661610bbbfda9f12b48e42",
+  "seqno": 19,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBTvdgaQH2raikYAdZz/O5sHh8cWAegqg9ehHxMZqFqwKp3BheWxvYWTESpcCCsQgPLhAYhGH9W56ah4UKlVzSeJ8xPGPTJFzOP/X9BSG1VnEIJV2fNdyH1AgGIU7xd9Twrb5umH8A2WuRuazdAceOWQTAgHCo3NpZ8RACcKWwBqJagVUMVxwSEay2vCZyts/d6glrdKUdrr0hI2efxuBnPtMfqjHwQZxQJG1jPafoMlFxvzXEHHCKGOGDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBHrqZTX1M9nI0hhJ0b6r/HHWDasW9gr1SzkDTl8ezazo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJbSBVBGMePpl2OCIJEF8NiFTE12dvM7h4iezKUCMNKwUOnmd1ZXS9n
+j7t7vKCFYASGqIiQSFIPQUQXezCKUjAVgryQqSQUiYqiERRIRobWrOhbj83DDPN9
+v+8/3/9jhmN3ebwR9Q/EkWDoWDhi5HV32ONvSk6pY7Cp1TK+OqaMbB2kXCO2Eygz
+NMbHsBzLyZIkiLIgawIRgK4rWIJI1rCmCADqOhI1FiIFqUQhAtJYgbAKr3Ic4EUW
+EEHEiEVMBqMbwWJihSwj6FBZQQQQIVYFOpAAzwtw64oRBjwLFUnjRU6XZUGnhSWm
+7VbQ5jCySaZh0hi9BLba+wf/n/sOb8lJCPA6hlClCqquACAAwAFNgSJRVcgpLmgT
+K4gqCKVLqdMKpBHmagZDo1WGStzBuk52CGKH7cxtLFMjVVQgZJmOqZrlNF3iOCHb
+55Y7tSGXryY4sK0UwEZQo8OkFVXEsg0zyPg4SqqO4UpzgBpQ6C5nMKQmZFgkYLgE
+kKDM0uW+Q5/zMQgSrIhYJ5AQiYNQYDWk6DwSBV0S6fgUoCAo8SxPcxzkWIyx7hIc
+j0WZiDzjeqsMmlRboX2iYqppG8VB5IQt6nxwwB/lifB6dkdHur/M490Xt/P3Ti3t
+2RTSU7+PR8a8ajrxTP7W+GEqUj0zdSXhSF9rTH12fs/pmGSxOe1Qe8OtGeCZa+km
+VvyXRsuYPdyxFq1FJS4z5x59/rM0pAulOe/y0udbLhXcjZ0uysLNZteB9dy0jMpY
+JTt7c+HHy1/DN68XfsxJPHg5Ye7CnYmk8bGa+umipucTqCx+3rOU//6hsf6k82tf
+8vnlwhsJbbPtSc64X3u6f8b7NuHs7s7Ue/d7Yya94az5gaHfJ4tGG/2LUbULx/ul
+i97clv6ftVnzrf6ylr5PG+GevRu51xZXVxLDEb35L1KSJo3swTxf9PBKcmzdqGE4
+Rxuqu1ZLO9ribhcsrT0ee/MXpMo/fg==
+=YcJR
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
